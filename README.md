@@ -1,5 +1,7 @@
 ![alt text](Banner.jpg)
 ## Hi there, my name is Joseph 👋
+:ok_hand: Connect with me: 
+
 
 
 ### I am a Postgraduate student, Data Scientist and Data Analyst!
