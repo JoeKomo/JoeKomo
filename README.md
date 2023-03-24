@@ -2,6 +2,8 @@
 ## Hi there, my name is Joseph 👋
 :ok_hand: Connect with me: 
 
+<a href=”https://www.linkedin.com/in/joseph-komolafe/"><img align=”left” src=”https://raw.githubusercontent.com/JoeKomo/JoeKomo/main/icons/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
 
 
 ### I am a Postgraduate student, Data Scientist and Data Analyst!
