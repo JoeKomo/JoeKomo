@@ -1,4 +1,4 @@
-
+![alt text](Banner.jpg)
 ## Hi there, my name is Joseph 👋
 
 
