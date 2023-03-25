@@ -1,7 +1,7 @@
 ![alt text](Banner.jpg)
 ## Hi there, my name is Joseph 👋
 :ok_hand: Connect with me:    
-<a href="https://www.linkedin.com/in/joseph-komolafe/" target="blank"><img align="left" alt="Yu Shi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoeKomo/JoeKomo/main/icons/linkedin.svg" /></a>  <a href="https://twitter.com/JoeKomo_/" target="blank"><img align="left" alt="Yu Shi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoeKomo/JoeKomo/main/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/joseph-komolafe/" target="blank"><img align="left" alt="Yu Shi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoeKomo/JoeKomo/main/icons/linkedin.svg" /></a>  <a href="https://twitter.com/JoeKomo_/" target="blank"><img align="left" alt="Yu Shi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoeKomo/JoeKomo/main/icons/twitter.svg" /></a>  <a href="https://josephkomolafe.com/" target="blank"><img align="left" alt="Yu Shi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoeKomo/JoeKomo/main/icons/website.svg" /></a>
 
 
 
